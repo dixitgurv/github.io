@@ -2,4 +2,4 @@
 
 # GitHub Pages [Guava - Preconditions](https://dixitgurv.github.io/Guava-Preconditions/)
 
-# GitHub Pages [Shelve - Intelli J]([https://dixitgurv.github.io/Guava-Preconditions/](https://medium.com/@dixitgurv/intellij-shelve-a-help-in-busy-days-8423c693d809)
+# GitHub Pages [Shelve - Intelli J](https://medium.com/@dixitgurv/intellij-shelve-a-help-in-busy-days-8423c693d809)
